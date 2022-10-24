@@ -1,0 +1,47 @@
+Last login: Wed Sep 28 16:47:53 on ttys000
+yewonlee@n246-228 ~ % cd Desktop/MyMHC/CS
+yewonlee@n246-228 CS % python3 Project1.py 
+What is your name?Yewon_Case1
+Are you officially approved as a student who needs accessibility services?yes
+What is your grade?senior
+Do you have any record of violating the rules of your dorm or campus?no
+Thank you Yewon_Case1, your point is 130.
+yewonlee@n246-228 CS % python3 Project1.py 
+What is your name?Yewon_Case2
+Are you officially approved as a student who needs accessibility services?no
+What is your grade?freshmen
+Do you have any record of violating the rules of your dorm or campus?yes
+How many records do you have?4
+Thank you Yewon_Case2, your point is 10.
+yewonlee@n246-228 CS % python3 Project1.py 
+What is your name?Yewon_Case3
+Are you officially approved as a student who needs accessibility services?no
+What is your grade?Junior
+Do you have any record of violating the rules of your dorm or campus?yes
+How many records do you have?2
+Thank you Yewon_Case3, your point is 60.
+yewonlee@n246-228 CS % python3 Project1.py 
+What is your name?Yewon_Case4
+Are you officially approved as a student who needs accessibility services?yes
+What is your grade?Sophomore
+Do you have any record of violating the rules of your dorm or campus?no
+Thank you Yewon_Case4, your point is 110.
+yewonlee@n246-228 CS % python3 Project1.py 
+What is your name?Yewon_Case5
+Are you officially approved as a student who needs accessibility services?no
+What is your grade?freshmen
+Do you have any record of violating the rules of your dorm or campus?no
+Thank you Yewon_Case5, your point is 70.
+yewonlee@n246-228 CS % 
+
+
+
+
+
+
+
+
+
+
+
+
